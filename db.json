@@ -1,22 +1,45 @@
 {
-    "get": [
+    "biller": 
         {
-            "id": "5d56441709c7f90001c3f963",
-            "created_at": "2019-08-16T05:50:15.265Z",
-            "updated_at": "2019-08-19T03:51:07.143Z",
-            "biller_name": "",
-            "biller_balance": 0,
-            "biller_threshold_alert": 100000,
-            "terminal_target_proteusout": "Proteus Out ( GM and Kraken ) One IRS"
-        },
-        {
-            "id": "5d5644d7bbf7250001c1f24e",
-            "created_at": "2019-08-16T05:53:27.656Z",
-            "updated_at": "2019-08-16T06:10:12.224Z",
-            "biller_name": "SUKABUMI Three",
-            "biller_balance": 693630,
-            "biller_threshold_alert": 5000000,
-            "terminal_target_proteusout": "Proteus Out ( GM and Kraken ) One IRS"
+            "get": [
+                {
+                    "id": "5d56441709c7f90001c3f963",
+                    "created_at": "2019-08-16T05:50:15.265Z",
+                    "updated_at": "2019-08-19T03:51:07.143Z",
+                    "biller_name": "",
+                    "biller_balance": 0,
+                    "biller_threshold_alert": 100000,
+                    "terminal_target_proteusout": "Proteus Out ( GM and Kraken ) One IRS"
+                },
+                {
+                    "id": "5d5644d7bbf7250001c1f24e",
+                    "created_at": "2019-08-16T05:53:27.656Z",
+                    "updated_at": "2019-08-16T06:10:12.224Z",
+                    "biller_name": "SUKABUMI Three",
+                    "biller_balance": 693630,
+                    "biller_threshold_alert": 5000000,
+                    "terminal_target_proteusout": "Proteus Out ( GM and Kraken ) One IRS"
+                }
+            ],
+            "get_by_id": [
+                {
+                    "id": "5d56441709c7f90001c3f963",
+                    "created_at": "2019-08-16T05:50:15.265Z",
+                    "updated_at": "2019-08-19T04:07:34.786Z",
+                    "biller_name": "",
+                    "biller_balance": 0,
+                    "biller_threshold_alert": 100000,
+                    "terminal_target_proteusout": "Proteus Out ( GM and Kraken ) One IRS"
+                },
+                {
+                    "id": "5d5644d7bbf7250001c1f24e",
+                    "created_at": "2019-08-16T05:53:27.656Z",
+                    "updated_at": "2019-08-16T06:10:12.224Z",
+                    "biller_name": "SUKABUMI Three",
+                    "biller_balance": 693630,
+                    "biller_threshold_alert": 5000000,
+                    "terminal_target_proteusout": "Proteus Out ( GM and Kraken ) One IRS"
+                }
+            ]
         }
-    ]
 }
