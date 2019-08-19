@@ -38,5 +38,87 @@
             "biller_threshold_alert": 5000000,
             "terminal_target_proteusout": "Proteus Out ( GM and Kraken ) One IRS"
         }
+    ],
+    "product_get_by_id": [
+        {
+            "id": "5d564906fc7be00001837df1",
+            "created_at": "2019-08-16T06:11:18.492Z",
+            "updated_at": "2019-08-19T04:32:59.235Z",
+            "product_alias": "S10",
+            "biller_id": "5d56441709c7f90001c3f963",
+            "gm_price_id": "1",
+            "gm_product_name": "test",
+            "product_last_cogs": 0
+        },
+        {
+            "id": "5d564a7bfc7be00001837df4",
+            "created_at": "2019-08-16T06:17:31.208Z",
+            "updated_at": "2019-08-16T13:20:23.89Z",
+            "product_alias": "T1",
+            "biller_id": "5d56441709c7f90001c3f963",
+            "gm_price_id": "0",
+            "gm_product_name": "",
+            "product_last_cogs": 0
+        },
+        {
+            "id": "5d565169fc7be00001837e05",
+            "created_at": "2019-08-16T06:47:05.688Z",
+            "updated_at": "2019-08-16T06:47:05.688Z",
+            "product_alias": "GOJEK1",
+            "biller_id": "5d56441709c7f90001c3f963",
+            "gm_price_id": "2708",
+            "gm_product_name": "Top Up GO-PAY Rp1.000",
+            "product_last_cogs": 0
+        },
+        {
+            "id": "5d5654b3fc7be00001837e12",
+            "created_at": "2019-08-16T07:01:07.616Z",
+            "updated_at": "2019-08-16T11:51:24.094Z",
+            "product_alias": "GOJEK2",
+            "biller_id": "5d56441709c7f90001c3f963",
+            "gm_price_id": "2837",
+            "gm_product_name": "Top Up GO-PAY Rp 2.000",
+            "product_last_cogs": 0
+        },
+        {
+            "id": "5d5664ee10e3e80001eee590",
+            "created_at": "2019-08-16T08:10:22.892Z",
+            "updated_at": "2019-08-16T11:29:33.256Z",
+            "product_alias": "OVO20",
+            "biller_id": "5d56441709c7f90001c3f963",
+            "gm_price_id": "2692",
+            "gm_product_name": "Top Up OVO Rp20.000",
+            "product_last_cogs": 0
+        },
+        {
+            "id": "5d567c8e10e3e80001eee597",
+            "created_at": "2019-08-16T09:51:10.428Z",
+            "updated_at": "2019-08-16T09:51:10.428Z",
+            "product_alias": "PLN20",
+            "biller_id": "5d56441709c7f90001c3f963",
+            "gm_price_id": "2816",
+            "gm_product_name": "PLN Prepaid Serpul 20k",
+            "product_last_cogs": 0
+        },
+        {
+            "id": "5d56967610e3e80001eee59e",
+            "created_at": "2019-08-16T11:41:42.419Z",
+            "updated_at": "2019-08-19T05:02:04.534Z",
+            "product_alias": "FS10",
+            "biller_id": "5d56441709c7f90001c3f963",
+            "gm_price_id": "2630",
+            "gm_product_name": "Telkomsel Voucher Fisik 5.000",
+            "product_last_cogs": 0
+        },
+        {
+            "id": "5d57bb2aae8d2d00019994dd",
+            "created_at": "2019-08-17T08:30:34.788Z",
+            "updated_at": "2019-08-17T08:30:34.788Z",
+            "product_alias": "TARA123",
+            "biller_id": "5d56441709c7f90001c3f963",
+            "gm_price_id": "0",
+            "gm_product_name": "",
+            "product_last_cogs": 0
+        }
     ]
 }
